@@ -19,3 +19,13 @@ runs/
 
 # Thumbs
 Thumbs.db
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Caches de Python y Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
